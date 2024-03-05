@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BindingLibraryFrameworks Include="SystemConfiguration">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="UserNotifications">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="WebKit">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="CoreGraphics">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="UIKit">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="OneSignalOutcomes">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="OneSignalCore">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="OneSignalExtension">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="OneSignalNotifications">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="OneSignalOSCore">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+    <_BindingLibraryFrameworks Include="OneSignalUser">
+      <Assembly>OneSignalSDK.DotNet.iOS.Binding</Assembly>
+    </_BindingLibraryFrameworks>
+  </ItemGroup>
+</Project>
